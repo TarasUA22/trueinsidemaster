@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>True Inside Masters</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #eaeaea, #ffffff);
+      color: #333;
+      text-align: center;
+      padding: 0;
+    }
+    header {
+      background: #0d3c5f;
+      color: white;
+      padding: 40px 20px;
+    }
+    header img {
+      width: 120px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    p {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+    section {
+      padding: 40px 20px;
+    }
+    footer {
+      background: #0d3c5f;
+      color: white;
+      padding: 20px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://tarasua22.github.io/trueinsidemaster/logo.png" alt="Logo">
+    <h1>True Inside Masters</h1>
+    <p>Відкриваємо нові можливості</p>
+  </header>
+
+  <section>
+    <h2>Про нас</h2>
+    <p>Це тестова сторінка вашого першого сайту. Тут можна розмістити інформацію про компанію, послуги та контакти.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 True Inside Masters. Всі права захищені.
+  </footer>
+</body>
+</html>
